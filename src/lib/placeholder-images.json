@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-shuttle",
+      "description": "A white electric multi-passenger shuttle on a paved road with trees in the background.",
+      "imageUrl": "https://images.unsplash.com/photo-1631975498849-b051d2db3586?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbGVjdHJpYyUyMGdvbGYlMjBjYXJ0JTIwc2h1dHRsZXxlbnwwfHx8fDE3MjA3MzM3MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric shuttle bus"
+    },
+    {
+      "id": "shuttle-fleet-background",
+      "description": "A fleet of new electric shuttles in a warehouse.",
+      "imageUrl": "https://storage.googleapis.com/stabl-media/1141-assets/original.webp",
+      "imageHint": "shuttle fleet"
+    },
+    {
+      "id": "campus-map",
+      "description": "A stylized map of a university campus for shuttle tracking.",
+      "imageUrl": "https://images.unsplash.com/photo-1696469968133-6d2086ce4ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjYW1wdXMlMjBtYXB8ZW58MHx8fHwxNzYxNjQ2NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "campus map"
+    },
+    {
+      "id": "city-map",
+      "description": "A stylized, abstract map of a city with roads and districts.",
+      "imageUrl": "/images/citymap.png",
+      "imageHint": "abstract city map"
+    },
+    {
+      "id": "sustainability-banner",
+      "description": "A graphic representing sustainability and green energy.",
+      "imageUrl": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxncmVlbiUyMGVuZXJneXxlbnwwfHx8fDE3NjE1NzkwNzR8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "green energy"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "A smiling student.",
+      "imageUrl": "https://images.unsplash.com/photo-1631131428457-3c14bdcb81d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWlsaW5nJTIwc3R1ZGVudHxlbnwwfHx8fDE3NjE1ODM1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling student"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Another smiling student.",
+      "imageUrl": "https://images.unsplash.com/photo-1565598621680-94ac0c22b148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoYXBweSUyMHN0dWRlbnR8ZW58MHx8fHwxNzYxNjQ3Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy student"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "A third smiling student.",
+      "imageUrl": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx1bml2ZXJzaXR5JTIwc3R1ZGVudHxlbnwwfHx8fDE3NjE2NDk4NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university student"
+    },
+    {
+      "id": "shuttle-main-campus",
+      "description": "A multi-passenger electric golf cart shuttle on a university campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1593973703964-b586e68d56a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGdvbGYlMjBjYXJ0JTIwc2h1dHRsZXxlbnwwfHx8fDE3MjA3MzMזMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric shuttle cart"
+    },
+    {
+      "id": "clean-and-green-logo",
+      "description": "The official logo for Clean and Green Shuttle Service.",
+      "imageUrl": "https://storage.googleapis.com/stabl-media/logos/1f53b593-41a6-46c5-9335-182390a78637.png",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "shuttle-in-city",
+      "description": "An electric shuttle bus driving on a city street.",
+      "imageUrl": "https://images.unsplash.com/photo-1626834310149-15a1d1a8582f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlbGVjdHJpYyUyMGJ1c3xlbnwwfHx8fDE3MjE4MzI3MTB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric bus"
+    },
+    {
+      "id": "akuh-shuttle",
+      "description": "A solar-powered electric shuttle, similar to the one used at Aga Khan University Hospital.",
+      "imageUrl": "https://images.unsplash.com/photo-1620358172945-4a5e35446050?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8c29sYXIlMjBzaHV0dGxlfGVufDB8fHx8MTcyMjMwODcyN3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "solar shuttle"
+    },
+    {
+      "id": "impact-bus",
+      "description": "Side view of a clean energy shuttle on a city street.",
+      "imageUrl": "/images/bus.png",
+      "imageHint": "clean bus"
+    },
+    {
+      "id": "impact-bus2",
+      "description": "A white electric shuttle bus on the road.",
+      "imageUrl": "/images/bus2.png",
+      "imageHint": "electric bus road"
+    },
+    {
+      "id": "impact-hero1",
+      "description": "A white electric shuttle bus driving on a coastal road.",
+      "imageUrl": "/images/image copy.png",
+      "imageHint": "future bus"
+    }
+  ]
+}

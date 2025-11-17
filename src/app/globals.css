@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 224 71% 4%;
+    --card: 0 0% 100%;
+    --card-foreground: 224 71% 4%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 71% 4%;
+    --primary: 142 76% 36%;
+    --primary-foreground: 142 76% 96%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 142 76% 40%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 142 76% 36%;
+    --radius: 0.5rem;
+    --chart-1: 142 76% 36%;
+    --chart-2: 204 90% 50%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 142 71% 45%;
+    --primary-foreground: 142 76% 96%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 142 71% 45%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 142 71% 45%;
+    --chart-1: 142 71% 45%;
+    --chart-2: 204 80% 50%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-headline;
+  }
+}
+
+@layer components {
+  .hero {
+    @apply relative h-[60vh] w-full flex items-center justify-center text-center text-white overflow-hidden;
+  }
+  .hero-overlay {
+    @apply absolute inset-0 bg-black/60;
+  }
+  .page-container {
+    @apply container py-12 md:py-20 max-w-5xl mx-auto;
+  }
+  .lift-card {
+    @apply shadow-lg transition-all duration-300 hover:-translate-y-2;
+  }
+  .hover-card-accent {
+    @apply hover:bg-accent/10;
+  }
+  .hover-card-primary {
+    @apply hover:bg-primary/10;
+  }
+  .hover-card-destructive {
+    @apply hover:bg-destructive/10;
+  }
+  .hover-card-secondary {
+    @apply hover:bg-secondary;
+  }
+  .section-title {
+    @apply text-3xl font-bold mb-4;
+  }
+  .subsection-title {
+    @apply text-2xl font-bold text-primary mt-6 mb-3;
+  }
+}
