@@ -9,13 +9,13 @@ const contactDetails = [
   {
     icon: <Phone className="h-6 w-6 text-primary" />,
     title: "Support Hotline",
-    value: "+923238558754",
+    value: "+923209876321",
     description: "For urgent queries.",
   },
   {
     icon: <Mail className="h-6 w-6 text-primary" />,
     title: "Email Support",
-    value: "abdullahnumlian45@gmail.com",
+    value: "bisma@gmail.com",
     description: "For suggestions & complaints.",
   },
   {
