@@ -13,8 +13,8 @@ const footer_content = {
   title: "Ride Green. Ride Smart. The future of campus mobility.",
   description:
     "Our team is dedicated to providing a seamless, reliable, and sustainable transportation solution for the campus community.",
-  phone: "+923238558754",
-  contact_mail: "abdullahnumlian45@gmail.com",
+  phone: "+923207543215",
+  contact_mail: "bisma@gmail.com",
 
   copy_right: (
     <>
